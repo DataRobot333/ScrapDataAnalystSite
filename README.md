@@ -1,4 +1,4 @@
-# 🕸️ Web Scraping Data Analyst Job Opportunities
+# 🕸️ Web Scraping DataAnalyst.com Job Opportunities
 
 ## 📖 Overview
 This project collects and analyzes **Data Analyst job postings** from [DataAnalyst.com](https://www.dataanalyst.com/) using Python-based web scraping techniques.  
@@ -34,7 +34,7 @@ the data will not be updated, but you can use the code to get the latest job fro
 
 ## 📊 Output
 All collected data is saved in the file:  
-**`dataanalyst_jobs.csv`**
+**`job_listings.csv`**
 
 ## 📊 Example Snapshot
 
